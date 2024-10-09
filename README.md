@@ -46,3 +46,9 @@ git commit -m "titulo descriptivo de los cambios que hicimos"
 git commit --amend -m "titulo corregido"
 ```
 
+# Como ver el timeline de commits
+
+```sh
+git log # version larga
+git log --oneline # Version corta
+```
