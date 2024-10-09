@@ -40,3 +40,9 @@ git add . # agrega todos los archivos
 git commit -m "titulo descriptivo de los cambios que hicimos"
 ```
 
+# Correccion del titulo del ultimo commit
+
+```sh
+git commit --amend -m "titulo corregido"
+```
+
