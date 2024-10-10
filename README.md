@@ -52,3 +52,8 @@ git commit --amend -m "titulo corregido"
 git log # version larga
 git log --oneline # Version corta
 ```
+# Como ver la url del repositorio que creamos
+
+```sh
+git remote -v
+```
